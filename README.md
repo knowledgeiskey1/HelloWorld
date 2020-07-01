@@ -1,1 +1,3 @@
 # HelloWorld
+
+I like to code even though I suck at it. Practice makes perfect though...
